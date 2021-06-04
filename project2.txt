@@ -3,3 +3,5 @@ Bikin Header
 Bikin Body
 
 bikin footer
+
+bikin slide
